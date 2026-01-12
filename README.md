@@ -29,3 +29,4 @@ This portfolio project includes the following BA deliverables:
 This is a fictitious case study created for portfolio purposes.  
 No real systems, data, or organizations are represented.
 
+This project focuses on a targeted system enhancement rather than a full end-to-end solution, reflecting a real-world change request scenario.
